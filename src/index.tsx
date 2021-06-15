@@ -4,19 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-
-
-
-
-
-
-
-
-
-
 ReactDOM.render(
   <React.StrictMode>
-    <div>Welcome to CS 70!</div>
+    {/* <App /> */}
+    {/* <head>
+      <div>Welcome to CS 70!</div>
+    </head> */}
+    <div>
+      <big> Welcome to CS 70! </big>
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );

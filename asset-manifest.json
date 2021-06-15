@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/arinchang.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/arinchang.github.io/static/js/main.1bdb5eda.chunk.js",
+    "main.js.map": "/arinchang.github.io/static/js/main.1bdb5eda.chunk.js.map",
+    "runtime-main.js": "/arinchang.github.io/static/js/runtime-main.ece5c1b2.js",
+    "runtime-main.js.map": "/arinchang.github.io/static/js/runtime-main.ece5c1b2.js.map",
+    "static/js/2.5294ded9.chunk.js": "/arinchang.github.io/static/js/2.5294ded9.chunk.js",
+    "static/js/2.5294ded9.chunk.js.map": "/arinchang.github.io/static/js/2.5294ded9.chunk.js.map",
+    "static/js/3.9841e39f.chunk.js": "/arinchang.github.io/static/js/3.9841e39f.chunk.js",
+    "static/js/3.9841e39f.chunk.js.map": "/arinchang.github.io/static/js/3.9841e39f.chunk.js.map",
+    "index.html": "/arinchang.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/arinchang.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5294ded9.chunk.js.LICENSE.txt": "/arinchang.github.io/static/js/2.5294ded9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/arinchang.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ece5c1b2.js",
+    "static/js/2.5294ded9.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1bdb5eda.chunk.js"
+  ]
+}

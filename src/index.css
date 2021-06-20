@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding-left: 160px;
+  padding-right: 160px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -20,7 +21,7 @@ code {
 }
 
 #contact {
-  padding-right: 160px;
+  /* padding-right: 160px; */
   text-align: right;
 }
 

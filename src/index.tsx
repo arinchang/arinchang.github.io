@@ -6,13 +6,13 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Table} from 'react-bootstrap';
 
-const discussions = [
-  {
-    name: "Discussion 1A",
-    worksheet: "REPLACE WITH LINK",
-    section_note: "REPLACE WITH ACTUAL LINK"
-  }
-]
+// const discussions = [
+//   {
+//     name: "Discussion 1A",
+//     worksheet: "REPLACE WITH LINK",
+//     section_note: "REPLACE WITH ACTUAL LINK"
+//   }
+// ]
 
 ReactDOM.render(
   <React.StrictMode>
@@ -22,8 +22,8 @@ ReactDOM.render(
       <h1> Welcome to CS 70! </h1>
       <div id="contact">
         <a href="mailto:arinchang@berkeley.edu" target="_blank" rel="noopener noreferrer">arinchang@berkeley.edu</a><br></br>
-        <strong>Discussion:</strong> MTWTH 5pm <br></br>
-        <strong>Discussion:</strong> TWTHF 11am <br></br>
+        <strong>Discussion:</strong> MTWTh 5pm <br></br>
+        <strong>Discussion:</strong> TWThF 11am <br></br>
       </div>
 
       <div>Below are my teaching materials for the summer 2021 rendition of CS 70 which include notes from discussion section and potential resources.</div>
@@ -39,13 +39,11 @@ ReactDOM.render(
           </thead>
           <tbody>
             <tr>
-              {/* <td>Discussion 1A</td>
+              {/* <td>{<a href="https://www.eecs70.org/static/notes/n0.pdf" target="_blank" rel="noopener noreferrer">Note 0</a>}</td>
               <td>Note</td> */}
             </tr>
           </tbody>
         </Table>
-        {/* <a href="https://www.eecs70.org/static/notes/n0.pdf">Note 0</a><br></br>
-        <a href="http://www.eecs70.org/static/notes/n1.pdf">Note 1</a> */}
       </div>
 
       <h2>Resources</h2>

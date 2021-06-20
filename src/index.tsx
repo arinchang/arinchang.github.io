@@ -3,14 +3,21 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Container from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import {Table} from 'react-bootstrap';
+
+const discussions = [
+  {
+    name: "Discussion 1A",
+    worksheet: "REPLACE WITH LINK",
+    section_note: "REPLACE WITH ACTUAL LINK"
+  }
+]
 
 ReactDOM.render(
   <React.StrictMode>
     {/* <App /> */}
-    {/* <head>
-      <div>Welcome to CS 70!</div>
-    </head> */}
+    
     <div>
       <h1> Welcome to CS 70! </h1>
       <div id="contact">
@@ -19,34 +26,35 @@ ReactDOM.render(
         <strong>Discussion:</strong> TWTHF 11am <br></br>
       </div>
 
-      <div>Below are my teaching materials for CS 70 which include notes from discussion section and potential resources.</div>
+      <div>Below are my teaching materials for the summer 2021 rendition of CS 70 which include notes from discussion section and potential resources.</div>
 
-      <h2>Testing</h2>
+      <h2>Discussions</h2>
       <div>
-        <a href="https://www.eecs70.org/static/notes/n0.pdf">Note 0</a><br></br>
-        <a href="http://www.eecs70.org/static/notes/n1.pdf">Note 1</a>
+        <Table striped bordered hover className="table">
+           <thead>
+            <tr>
+              <th>Discussion</th>
+              <th>Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              {/* <td>Discussion 1A</td>
+              <td>Note</td> */}
+            </tr>
+          </tbody>
+        </Table>
+        {/* <a href="https://www.eecs70.org/static/notes/n0.pdf">Note 0</a><br></br>
+        <a href="http://www.eecs70.org/static/notes/n1.pdf">Note 1</a> */}
       </div>
 
+      <h2>Resources</h2>
     </div>
 
-    {/* <Container>
-  <Row className="justify-content-md-center">
-    <Col xs lg="2">
-      1 of 3
-    </Col>
-    <Col md="auto">Variable width content</Col>
-    <Col xs lg="2">
-      3 of 3
-    </Col>
-  </Row>
-  <Row>
-    <Col>1 of 3</Col>
-    <Col md="auto">Variable width content</Col>
-    <Col xs lg="2">
-      3 of 3
-    </Col>
-  </Row>
-</Container> */}
+    
+
+
+
   </React.StrictMode>,
   document.getElementById('root')
 );

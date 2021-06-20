@@ -26,7 +26,8 @@ ReactDOM.render(
         <strong>Discussion:</strong> TWThF 11am <br></br>
       </div>
 
-      <div>Below are my teaching materials for the summer 2021 rendition of CS 70 which include notes from discussion section and potential resources.</div>
+      <div>Below are my teaching materials for the summer 2021 rendition of <a href="https://www.eecs70.org" target="_blank" rel="noopener noreferrer">CS 70</a> which include notes from discussion section and potential resources.
+      </div>
 
       <h2>Discussions</h2>
       <div>

@@ -40,8 +40,20 @@ ReactDOM.render(
           </thead>
           <tbody>
             <tr>
-              {/* <td>{<a href="https://www.eecs70.org/static/notes/n0.pdf" target="_blank" rel="noopener noreferrer">Note 0</a>}</td>
-              <td>Note</td> */}
+              <td>{<a href="https://www.eecs70.org/static/discussions/dis01a.pdf" target="_blank" rel="noopener noreferrer">Discussion 1A</a>}</td> 
+              {/* <td>Note</td>  */}
+            </tr>
+            <tr>
+              <td>{<a href="https://www.eecs70.org/static/discussions/dis01b.pdf" target="_blank" rel="noopener noreferrer">Discussion 1B</a>}</td> 
+              {/* <td>Note</td>  */}
+            </tr>
+            <tr>
+              <td>{<a href="https://www.eecs70.org/static/discussions/dis01c.pdf" target="_blank" rel="noopener noreferrer">Discussion 1C</a>}</td> 
+              {/* <td>Note</td>  */}
+            </tr>
+            <tr>
+              <td>{<a href="https://www.eecs70.org/static/discussions/dis01d.pdf" target="_blank" rel="noopener noreferrer">Discussion 1D</a>}</td> 
+              {/* <td>Note</td>  */}
             </tr>
           </tbody>
         </Table>

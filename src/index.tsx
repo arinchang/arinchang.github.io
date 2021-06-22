@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Table} from 'react-bootstrap';
+import note1 from './data/dis01a.pdf';
 
 // const discussions = [
 //   {
@@ -41,7 +42,7 @@ ReactDOM.render(
           <tbody>
             <tr>
               <td>{<a href="https://www.eecs70.org/static/discussions/dis01a.pdf" target="_blank" rel="noopener noreferrer">Discussion 1A</a>}</td> 
-              <td>{<a href="data/dis01a.pdf" target="_blank" rel="noopener noreferrer">Note</a>}</td> 
+              <td>{<a href={note1} target="_blank" rel="noopener noreferrer">Note</a>}</td> 
             </tr>
             <tr>
               <td>{<a href="https://www.eecs70.org/static/discussions/dis01b.pdf" target="_blank" rel="noopener noreferrer">Discussion 1B</a>}</td> 

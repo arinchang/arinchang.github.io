@@ -41,7 +41,7 @@ ReactDOM.render(
           <tbody>
             <tr>
               <td>{<a href="https://www.eecs70.org/static/discussions/dis01a.pdf" target="_blank" rel="noopener noreferrer">Discussion 1A</a>}</td> 
-              {/* <td>Note</td>  */}
+              <td>{<a href="data/dis01a.pdf" target="_blank" rel="noopener noreferrer">Note</a>}</td> 
             </tr>
             <tr>
               <td>{<a href="https://www.eecs70.org/static/discussions/dis01b.pdf" target="_blank" rel="noopener noreferrer">Discussion 1B</a>}</td> 

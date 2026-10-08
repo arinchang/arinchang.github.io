@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science and Applied Math at <a href='https://www.berkeley.edu/'>UC Berkeley</a>
+subtitle: PhD student in Statistics at <a href='https://www.purdue.edu/'>Purdue University</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I'm a fourth year undergrad studying Computer Science and Applied Math at UC Berkeley. I'm currently interested in deep learning generalization and privacy and am conducting research towards this end with members of Prof. Kannan Ramchandran's group. In the past, I've worked on federated learning on the Personalization team at Walmart Labs and neural network pruning in the [Berkeley RISE Lab](https://rise.cs.berkeley.edu/). My other academic interests include economics, math, statistics, and biology. I also love [playing the violin](https://www.youtube.com/channel/UCWVyIc2xtAWZIRLv9wUIhDA).
+I am a PhD student in Statistics at Purdue University, advised by Jordan Awan and Vinayak Rao. My research lies at the intersection of differential privacy, computational statistics, and machine learning, with a particular focus on developing statistically valid and computationally efficient methods for inference from privatized data. My current work includes Bayesian computation and MCMC for private data, simulation-based inference, and privacy-preserving statistical methodology. More broadly, I am interested in privacy-preserving machine learning, statistical inference, and computational methods for modern data analysis.
 
 ### Awards and Honors
 

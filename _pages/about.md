@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in Statistics at <a href='https://www.purdue.edu/'>Purdue University</a>
 
 profile:
   align: right

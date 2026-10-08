@@ -21,6 +21,4 @@ latest_posts:
 
 I am a PhD student in Statistics at Purdue University, advised by Jordan Awan and Vinayak Rao. My research lies at the intersection of differential privacy, computational statistics, and machine learning, with a particular focus on developing statistically valid and computationally efficient methods for inference from privatized data. My current work includes Bayesian computation and MCMC for private data, simulation-based inference, and privacy-preserving statistical methodology. More broadly, I am interested in privacy-preserving machine learning, statistical inference, and computational methods for modern data analysis.
 
-### Awards and Honors
-
-- UC Berkeley Data Science Society Datathon Honorable Mention (2020)
+**Email:** chan1074 [at] purdue [dot] edu

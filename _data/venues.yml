@@ -1,3 +1,11 @@
 "ICML":
   url: https://icml.cc/
   color: "#00369f"
+
+"JMLR":
+  url: https://www.jmlr.org/
+  color: "#00369f"
+
+"TMLR":
+  url: https://jmlr.org/tmlr/
+  color: "#00369f"
